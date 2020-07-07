@@ -18,6 +18,8 @@
   - Navigate to the STS workspace folder in a command prompt / terminal window
   - Enter the command: `git clone [repository url]` to clone the project to your local environment
 
+### Consider:
+
 - It works best to 'devide and conquer' the project work avoiding both partners working in the same files at the same time. 
 - Make frequent use of git commands such as 'pull', 'add', 'commit', 'push'. 
 - Communicate frequently with each other on the project progress, make a plan, use a checklist. 
