@@ -5,19 +5,18 @@
 1. Discuss with your partner and decide who will host the project on github. 
 2. Have the host prepare a repository for the project on github and designate the partner as a collaborator.
 3. The host performs an initial project build on Spring Tool Suite.
-  a. After the initial build, open a command prompt / terminal window
-  b. Navigate to the project folder in STS workspace
-  c. Enter the command: `git init` to initialize the project with git
-  d. Enter the command: `git add .` to stage all of the initial files
-  e. Enter the command: `git commit -m "initial commit"`
-  f. Return to github and copy the url for the repository
-  g. Back on the command prompt / terminal for the project, enter the command: `git remote add origin [repository url]`
-  h. Enter the command: `git push -u origin master`
+  - After the initial build, open a command prompt / terminal window
+  - Enter the command: `git init` to initialize the project with git
+  - Enter the command: `git add .` to stage all of the initial files
+  - Enter the command: `git commit -m "initial commit"`
+  - Return to github and copy the url for the repository
+  - Back on the command prompt / terminal for the project, enter the command: `git remote add origin [repository url]`
+  - Enter the command: `git push -u origin master`
 4. The collaborating partner clones the project
-  a. Go to the hosting partner's github
-  b. Open the project repository and copy the url for the repository
-  c. Navigate to the STS workspace folder in a command prompt / terminal window
-  d. Enter the command: `git clone [repository url]` to clone the project to your local environment
+  - Go to the hosting partner's github
+  - Open the project repository and copy the url for the repository
+  - Navigate to the STS workspace folder in a command prompt / terminal window
+  - Enter the command: `git clone [repository url]` to clone the project to your local environment
 
 - It works best to 'devide and conquer' the project work avoiding both partners working in the same files at the same time. 
 - Make frequent use of git commands such as 'pull', 'add', 'commit', 'push'. 
