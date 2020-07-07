@@ -31,19 +31,20 @@
 
 Start with a **Spring Starter Project** in Spring Boot
 
-Name: **eCommerce**
-group: **com.tts**
-Artifact: **eCommerce**
-Description: **eCommerce web app project**
-package: **com.tts.eCommerce**
+- Name: **eCommerce**
+- group: **com.tts**
+- Artifact: **eCommerce**
+- Description: **eCommerce web app project**
+- package: **com.tts.eCommerce**
 
-Add dependencies: **Spring Boot DevTools**
-                  **Validation**
-                  **Spring Data JPA**
-                  **H2 Database**
-                  **Thymeleaf**
-                  **Spring Web**
-                  **Spring Security**
+Add dependencies: 
+- **Spring Boot DevTools**
+- **Validation**
+- **Spring Data JPA**
+- **H2 Database**
+- **Thymeleaf**
+- **Spring Web**
+- **Spring Security**
 
 Let Spring Boot generate the project files... Wait for it, wait for it...
 
